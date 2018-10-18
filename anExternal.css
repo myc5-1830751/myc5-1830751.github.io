@@ -1,0 +1,8 @@
+#text{float:right;font-size: 50px}
+#corner {
+    border-radius: 25px;
+    background: purple;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;    
+}
